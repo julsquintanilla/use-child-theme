@@ -1,4 +1,4 @@
-**Use Child Theme**: Add child theme support to any WordPress theme
+**Use Child Theme**: Add child theme support to any WordPress theme (Crear Tema Hijo para trabajar de manera segura)
 
 <img src="http://i.imgur.com/XqYZcTA.png" width="680" height="349" />
 
