@@ -34,3 +34,5 @@ require_once( trailingslashit( get_template_directory() ) . 'use-child-theme.php
 
 **0.1**
 * Initial release
+
+*https://www.youtube.com/watch?v=CnDOo6rJJ7Q&t=115s
